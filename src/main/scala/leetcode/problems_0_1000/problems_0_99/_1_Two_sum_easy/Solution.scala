@@ -1,4 +1,4 @@
-package leetcode._1_Two_sum_easy
+package leetcode.problems_0_1000.problems_0_99._1_Two_sum_easy
 
 object Solution{
   def twoSum(nums: Array[Int], target: Int): Array[Int] = {

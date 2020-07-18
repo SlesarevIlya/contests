@@ -1,4 +1,4 @@
-package leetcode._21_Merge_two_sorted_lists
+package leetcode.problems_0_1000.problems_0_99._21_Merge_two_sorted_lists
 
 class ListNode(var _x: Int = 0) {
   var next: ListNode = _
