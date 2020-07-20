@@ -1,4 +1,4 @@
-package leetcode.problems_0_1000.problems_0_99._7_Reverse_integer_easy
+package leetcode.problems_0_999.problems_0_99._7_Reverse_integer_easy
 
 object Solution extends App {
   def reverse(x: Int): Int = {

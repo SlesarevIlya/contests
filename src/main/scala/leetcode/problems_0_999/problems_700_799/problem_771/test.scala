@@ -1,4 +1,4 @@
-package leetcode._771_Jewels_and_stones_easy
+package leetcode.problems_0_999.problems_700_799.problem_771
 
 object test extends App {
   val aa = Map("a" -> "1", "b" -> 1, "c" -> None)
