@@ -1,4 +1,4 @@
-package leetcode.problem_1342
+package leetcode.problems_1000_1999.problems_1300_1399.problem_1342
 
 object Solution {
 

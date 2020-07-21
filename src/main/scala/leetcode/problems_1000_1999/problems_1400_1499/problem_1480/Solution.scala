@@ -1,4 +1,4 @@
-package leetcode._1480_array_sum
+package leetcode.problems_1000_1999.problems_1400_1499.problem_1480
 
 object Solution {
   def runningSum(nums: Array[Int]) : Array[Int] = {

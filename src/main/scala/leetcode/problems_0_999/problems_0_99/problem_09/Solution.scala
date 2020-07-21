@@ -1,4 +1,4 @@
-package leetcode.problems_0_999.problems_0_99._9_Palindrome_number_easy
+package leetcode.problems_0_999.problems_0_99.problem_09
 
 object Solution extends App {
   def isPalindrome(x: Int): Boolean = {

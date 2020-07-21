@@ -1,4 +1,4 @@
-package leetcode.problems_0_999.problems_0_99._21_Merge_two_sorted_lists
+package leetcode.problems_0_999.problems_0_99.problem_21
 
 object Solution extends App {
   def mergeTwoLists(externalL1: ListNode, externalL2: ListNode): ListNode = {
